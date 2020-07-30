@@ -1,0 +1,4 @@
+com\docker\simpledockerdemo\SimpledockerdemoApplication.class
+META-INF\maven\com.docker\simpledockerdemo\pom.xml
+com\docker\simpledockerdemo\controller\MyController.class
+META-INF\maven\com.docker\simpledockerdemo\pom.properties
